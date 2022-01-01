@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FastcampusTodoServerApplication {
+public class FastCampusTodoServerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FastcampusTodoServerApplication.class, args);
+        SpringApplication.run(FastCampusTodoServerApplication.class, args);
     }
 
 }
